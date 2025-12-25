@@ -47,13 +47,13 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Kde Plasma Adjustment](https://samwhelp.github.io/kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/kde-plasma-adjustment) |
-| [Pardus Kde Plasma Adjustment](https://samwhelp.github.io/pardus-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/pardus-kde-plasma-adjustment) |
 | [Debian Kde Plasma Adjustment](https://samwhelp.github.io/debian-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/debian-kde-plasma-adjustment) |
-| [Ubuntu Kde Plasma Adjustment](https://samwhelp.github.io/ubuntu-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-kde-plasma-adjustment) |
+| [Kubuntu Adjustment](https://samwhelp.github.io/kubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/kubuntu-adjustment) |
 | [Fedora Kde Plasma Adjustment](https://samwhelp.github.io/fedora-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-kde-plasma-adjustment) |
 | [Archlinux Kde Plasma Adjustment](https://samwhelp.github.io/archlinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-kde-plasma-adjustment) |
 | [Manjaro Kde Plasma Adjustment](https://samwhelp.github.io/manjaro-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-kde-plasma-adjustment) |
 | [Solus Kde Plasma Adjustment](https://samwhelp.github.io/solus-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/solus-kde-plasma-adjustment) |
+
 
 
 
