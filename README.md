@@ -29,7 +29,7 @@
 
 | Script |
 | ------ |
-| [Voidlinux Kde Plasma Config](https://github.com/samwhelp/voidlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-plasma-config/full/Main) |
+| [Voidlinux Kde Plasma Config](https://github.com/samwhelp/voidlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/voidlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
