@@ -14,6 +14,7 @@
 ## Subject
 
 * [Script](#script)
+* [Resource](#resource)
 * [ISO](#iso)
 * [Link](#link)
 
@@ -26,6 +27,19 @@
 | ------ |
 | [Voidlinux Kde Plasma Config](https://github.com/samwhelp/voidlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/voidlinux-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## Resource
+
+| Kde Resource |
+| ------------ |
+| [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
+| [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
+| [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
+| [kde-plasma-style-switch](https://github.com/samwhelp/kde-plasma-style-switch) |
+| [kde-plasma-keybind-switch](https://github.com/samwhelp/kde-plasma-keybind-switch) |
 
 
 
